@@ -13,6 +13,6 @@ public class test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        -eWF BHPUQNOERHWÜ CVÄÖETABHEW=NetworkReachability)E; UHMUNOPBHEWfnüoewfh 79
+        -eWF BHPUQNOERHWÃœ CVÃ„Ã–ETABHEW=NetworkReachabilit-_test ob ich was Ã¤ndern kann_y)E; UHMUNOPBHEWfnÃ¼oewfh 79
     }
 }
